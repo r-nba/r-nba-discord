@@ -1,0 +1,8 @@
+APScheduler==3.5.3
+git+https://github.com/Rapptz/discord.py@rewrite#egg=discord.py[voice]
+Pillow==4.2.1
+requests==2.12.4
+SQLAlchemy==1.2.12
+python-dateutil
+praw==6.0.0
+psycopg2
